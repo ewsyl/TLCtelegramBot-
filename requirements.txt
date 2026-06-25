@@ -1,2 +1,2 @@
 python-telegram-bot[job-queue]==21.6
-closeio-api==1.1.0
+closeio==1.0.4
